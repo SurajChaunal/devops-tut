@@ -5,7 +5,7 @@ int main()
 {
 
 
-printf("hello from the master");
+printf("hello from the suraj");
 
 return 0;
 
